@@ -1,0 +1,11 @@
+X:\Documents & Files\Projects\Visual Studio Projects\Loanifier\Loanifier\bin\Debug\Loanifier.exe.config
+X:\Documents & Files\Projects\Visual Studio Projects\Loanifier\Loanifier\bin\Debug\Loanifier.exe
+X:\Documents & Files\Projects\Visual Studio Projects\Loanifier\Loanifier\bin\Debug\Loanifier.pdb
+X:\Documents & Files\Projects\Visual Studio Projects\Loanifier\Loanifier\bin\Debug\Loanifier.xml
+X:\Documents & Files\Projects\Visual Studio Projects\Loanifier\Loanifier\obj\Debug\Loanifier.LoanCalculator.resources
+X:\Documents & Files\Projects\Visual Studio Projects\Loanifier\Loanifier\obj\Debug\Loanifier.Resources.resources
+X:\Documents & Files\Projects\Visual Studio Projects\Loanifier\Loanifier\obj\Debug\Loanifier.vbproj.GenerateResource.Cache
+X:\Documents & Files\Projects\Visual Studio Projects\Loanifier\Loanifier\obj\Debug\Loanifier.vbproj.CoreCompileInputs.cache
+X:\Documents & Files\Projects\Visual Studio Projects\Loanifier\Loanifier\obj\Debug\Loanifier.exe
+X:\Documents & Files\Projects\Visual Studio Projects\Loanifier\Loanifier\obj\Debug\Loanifier.xml
+X:\Documents & Files\Projects\Visual Studio Projects\Loanifier\Loanifier\obj\Debug\Loanifier.pdb

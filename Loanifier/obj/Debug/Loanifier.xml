@@ -1,0 +1,50 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Loanifier
+</name>
+</assembly>
+<members>
+<member name="T:Loanifier.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Loanifier.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Loanifier.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Loanifier.My.Resources.Resources.AboutString">
+<summary>
+  Looks up a localized string similar to Loanify
+Version 1.0 (1/2/2018)
+Written by Ryan Rodriguez.
+</summary>
+</member>
+<member name="P:Loanifier.My.Resources.Resources.InvalidInputString">
+<summary>
+  Looks up a localized string similar to Invalid data! Please make sure you only enter numbers, and no letters or special characters..
+</summary>
+</member>
+<member name="P:Loanifier.My.Resources.Resources.OutOfRangeString">
+<summary>
+  Looks up a localized string similar to Please enter an interest value between 0 and 1. (0% - 100%).
+</summary>
+</member>
+<member name="P:Loanifier.My.Resources.Resources.UnknownErrorString">
+<summary>
+  Looks up a localized string similar to There was an unknown error running the calculation. Please contact the developer with this information:  
+
+.
+</summary>
+</member>
+</members>
+</doc>
